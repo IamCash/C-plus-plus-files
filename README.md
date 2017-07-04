@@ -1,1 +1,1 @@
-This repository contain some of the C code.
+Contains the code of question on Array
